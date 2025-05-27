@@ -1,0 +1,85 @@
+body {
+    margin: 1%;
+}
+
+.header {
+    display: flex;
+    gap: 20px; 
+}
+
+.title {
+    background-color: gray;
+    width: 290px;
+    height: 85px;
+    padding: 1px;
+    text-align: center;
+}
+
+.jobTitle {
+    margin-top: -5%;
+    list-style: none;
+    padding: 0;
+}
+
+.tools {
+    margin-top: -10px;
+
+}
+
+.skill-list {
+    padding: 3px;
+    list-style: none;
+    
+}
+
+.info {
+    background-color: rgb(204, 202, 202);
+    display: flex;
+    width: 290px;
+    height: 65px;
+    padding: 1px;
+    margin-top: -27px;
+    margin-left: -1px;
+
+}
+
+.email {
+    margin-top: 0%;
+    text-indent: 4px;
+    font-size: 24px;
+    list-style: none;
+    text-align: left;
+    padding: 0;
+}
+
+.bar {
+    background-color: green;
+    height: 2px;
+    width: auto;
+    margin-top: -20px;
+    margin-left: 0;
+}
+
+.career-list {
+    list-style: none;
+    margin-left: ;
+}
+
+.career {
+    display: flex;
+
+}
+
+.jobs {
+    gap: 20px;
+
+}
+
+.duration {
+  margin-left: auto;
+}
+
+.job-points {
+    list-style-type: disc;
+}
+
