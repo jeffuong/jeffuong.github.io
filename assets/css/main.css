@@ -23,7 +23,6 @@ body {
 
 .tools {
     margin-top: -10px;
-
 }
 
 .skill-list {
@@ -38,7 +37,7 @@ body {
     width: 290px;
     height: 65px;
     padding: 1px;
-    margin-top: -27px;
+    margin-top: -10%;
     margin-left: -1px;
 
 }
@@ -56,24 +55,18 @@ body {
     background-color: green;
     height: 2px;
     width: auto;
-    margin-top: -20px;
-    margin-left: 0;
+    padding: 0px;
+    margin: 0px;
 }
 
 .career-list {
     list-style: none;
-    margin-left: ;
 }
 
 .career {
     display: flex;
-
 }
 
-.jobs {
-    gap: 20px;
-
-}
 
 .duration {
   margin-left: auto;
@@ -82,4 +75,3 @@ body {
 .job-points {
     list-style-type: disc;
 }
-
